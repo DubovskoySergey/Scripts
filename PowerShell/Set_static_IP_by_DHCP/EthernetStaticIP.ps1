@@ -1,4 +1,4 @@
-#--- Set the static IP address issued by DHCP ---#
+#--- Set the static IP address in Windows system issued by DHCP ---#
 
 # This script sets a static ip address received via DHCP.
 # Set the value of the $dns variable to the ip address of your dns server.
